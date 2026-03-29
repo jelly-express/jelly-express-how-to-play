@@ -2,7 +2,7 @@
 
 Запросы “**jelly express играть** / **желе экспресс играть**” и “**как играть в jelly express**” — самые конверсионные: человек уже почти готов запускать игру, ему нужны понятные шаги, стратегия и ответы на вопросы.
 
-<a href="https://jelly-express.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://lkbb.cc/0ddb" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/🎰_ИГРАТЬ_В_JELLY_EXPRESS_-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Jelly Express (Желе Экспресс) с промокодом LIKE1"
